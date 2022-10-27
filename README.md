@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SoDisliked and I'm an 18 y/o romanian web and software programmer (aspiring but not yet...).
-- 👀 I’m interested in Interactive 3d Maps, Socket configurations and application development.
-- 🌱 I’m currently learning Javascript, C# and TypeScript.
-
-- 📫 How to reach me: no contact yet.
-
-<!---
-SoDisliked/SoDisliked is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello there, I'm SoDisliked, I'm an 18 years-old web and software developper that is currently in College.
+🖥️ Currently, I'm learning platforms of JavaScript (Node, ThreeJS...), C# NET using and configurate Web Socket Clients.
+🖊️ Main languages that I know and I learn: (HTML, CSS, SCSS), C#, JavaScript, Python, Java, TypeScript, Rust.
+📚 Besides programming, I like economics, studying history (especially history between 17th and 18th century), studying languages, drawing and football.
+📚 I know 6 languages, more or less (English, French, Romanian -> C1 level / Italian -> B2 level / Spanish and Korean -> A1 level). 
